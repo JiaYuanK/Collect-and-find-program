@@ -1,4 +1,4 @@
-# Collect-and-calculate-program
+# Collect-and-find-program
 
 We were tasked with creating a scala program based on the following question:
 
